@@ -20,7 +20,7 @@
     "qs": "^6.5.1",
     "rimraf": "^2.6.2",
     "uglifyjs-webpack-plugin": "^2.0.1",
-    "vant": "^1.4.2",
+    "vant": "^2.1.8",
     "vue": "^2.3.2",
     "vue-core-image-upload": "2.1.11",
     "vue-datasource": "1.0.9",
