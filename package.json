@@ -17,7 +17,7 @@
     "js-md5": "^0.7.3",
     "mescroll.js": "^1.4.0",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
-    "qs": "^6.5.1",
+    "qs": "^6.5.3",
     "rimraf": "^2.6.2",
     "uglifyjs-webpack-plugin": "^2.0.1",
     "vant": "^1.4.2",
